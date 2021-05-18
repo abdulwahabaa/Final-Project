@@ -1,1 +1,2 @@
-# Final-Project
+## Final-Project
+  Hello, my name is Abdulwahab and I'm going to tell you a little bit about myself for this Final Project. I am twenty years old and was born in sunny San, Diego California. The thing about california and all its beauty is that it's not the most affordable place to live. Do to that reason my family moved all around the country until we finally decidedto settle down in Kansas City, Missorui. We made this move while I was still in Elementary school so although I dont remember much of where we previously lived I do remeber the constant sunshine and unedning warmth. These fond memories are the very reason why I want to live somewhere with good weather when I graduate. 
