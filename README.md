@@ -8,4 +8,4 @@
 ### Music
   Here's a link to a list of some of my favorite [Music](Favoritemusic.md). It's important to know what music people listen to becasue it blesses you with a window into their soul.
 ### Code
-  Here's some [Code] () that I worked on in my free time.
+  Here's some [Code](Code.md) that I worked on in my free time.
