@@ -5,5 +5,7 @@
   - [Portland, Oregon](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi1kderpdTwAhUWbs0KHVqgC7wQFjASegQIBBAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortland%2C_Oregon&usg=AOvVaw1NotI6AV5s3OFlMIvKQ588)
   - [Phoenix, Arizona](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiu7Zy2pdTwAhVTG80KHXUlBK4QFjAKegQIBRAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPhoenix%2C_Arizona&usg=AOvVaw1Tc5oljI2TWDkwjK3voJkS)
   - [Kansas City, Missouri](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHnLjCpdTwAhUOQ80KHc43ADQQFjAJegQIBhAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKansas_City%2C_Missouri&usg=AOvVaw1fkj7AqfHV6pqGjVn5Ep1b)
-# Music
-Here's a link to a list of some of my favorite [Music](Favoritemusic.md)
+### Music
+  Here's a link to a list of some of my favorite [Music](Favoritemusic.md). It's important to know what music people listen to becasue it blesses you with a window into their soul.
+### Code
+  Here's some [Code] () that I worked on in my free time.
